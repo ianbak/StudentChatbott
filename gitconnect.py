@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # GitHub URL for your private JSON file
 github_url = "https://raw.githubusercontent.com/ianbak/StudentChatbott/main/coursera_courses.json"
-
+## https://raw.githubusercontent.com/ianbak/StudentChatbott/main/coursera_courses.json
 # GitHub Personal Access Token (replace with your actual token)
 github_token = "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"
 
